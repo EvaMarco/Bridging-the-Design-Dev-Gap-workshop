@@ -28,32 +28,41 @@ Follow these steps to get started:
 - **Fork the Repository**:  
   Click on the 'Fork' button in the upper right corner of this repository to create your copy.
 
-  ![fork 1](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/627be3fe-827f-4227-bee1-c430eb005149)
+  ![fork 1](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/2bc96ff3-e45a-4acd-a1dd-7b2e39f47caf)
 
   Then you will see something like this.
 
-  ![Board](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/589681bf-17d4-4214-bedf-5cce7196ec04)
+  ![Board](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/62346e80-c0e2-497d-b672-3ada79b50e23)
 
 - **Open GitHub Codespaces**:  
   Navigate to the 'Code' tab and select the 'Codespaces' tab.
 
-  ![codespaces](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/5c72f0f6-218f-4708-9338-c2c518d799e5)
-
+  ![Group (3)](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/bfeccf20-6292-42f5-886e-b04f84373c9b)
+  
 - **Configure GitHub Codespaces**:  
   Set up GitHub Codespaces for this repository with your preferences or the "mark all done" button at the bottom.
 
-  ![codespace config](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/21e90d52-6444-4b34-b4f1-61e3bc77a0b7)
+  ![codespace config](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/703ab66a-40c0-444a-8ce0-d86da4b72e27)
 
-- **Start the Project**:  
+
+- **Editor is ready**:
   Now on your screen, you will see a code editor.
 
-  ![editor](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/a8c67468-c370-43b2-8703-114ab0c27718)
+  ![editor](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/488892c8-5345-44b5-89de-b0e76105d841)
+  
+- **Install dependeces**:
+  
+  In the terminal area at the bottom, write  `npm i` to install dependencies.
+  
+- **Start server**:
+  
+  Run the Development Server writing `npm run dev` in the terminal area.
 
-In the terminal area at the bottom, write  `npm i` to install dependencies.
-Run the Development Server `npm run dev` to start the development server.
+- **Access the Application**:
+  
+  Open the provided URL by pressing Ctrl + Click in your terminal or press this button at the right bottom.
+  ![Screenshot from 2023-11-20 13-43-23](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop/assets/48989967/d07ea421-4c9c-4607-a588-f1e81a60af24)
 
-- **Access the Application**:  
-  Open the provided URL by pressing Ctrl + Click in your terminal.
 
 ## Workshop Exercises  
 ### Coping code from penpot
